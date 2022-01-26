@@ -13,13 +13,21 @@ export default function Body() {
         </a>
       </div>
       <div className="projectBox">
-        <a href="www.sample.com">
+        <a href="http://www.sample.com">
           <h3>Youtube Playlistr</h3>
+          <p>
+            A MERN Stack Project that allows users to create accounts to save
+            their favorite Youtube videos.
+          </p>
         </a>
       </div>
       <div className="projectBox">
         <a href="www.sample.com">
           <h3>Fictional Portfolio</h3>
+          <p>
+            A pure HTML/CSS project, extensive use of CSS to create a unique
+            page.
+          </p>
         </a>
       </div>
     </div>
