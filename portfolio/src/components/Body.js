@@ -3,6 +3,7 @@ import React from "react";
 export default function Body() {
   return (
     <div className="projects">
+      <p>I work in React.js and Java.</p>
       <div className="projectBox">
         <a href="www.sample.com">
           <h3>SpotList</h3>
